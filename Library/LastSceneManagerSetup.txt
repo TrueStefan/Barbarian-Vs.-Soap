@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Supercyan Free Forest Sample/Scenes/BrightDay.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
